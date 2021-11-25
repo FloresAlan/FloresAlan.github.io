@@ -159,6 +159,7 @@
 
 }
 
+<<<<<<< Updated upstream
 #opiniones{
     height: 70vh;
 }
@@ -166,6 +167,10 @@
     height: 10vh;
 
 
+=======
+.opin{
+    padding:7vh;
+>>>>>>> Stashed changes
 }
 #opiniones .op-title h1{
     text-align: center;
@@ -256,6 +261,7 @@
 #footer-f {
     color: white;
 }
+<<<<<<< Updated upstream
 
 
 
@@ -677,3 +683,5 @@
 }
 
 
+=======
+>>>>>>> Stashed changes
