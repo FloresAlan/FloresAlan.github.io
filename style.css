@@ -225,6 +225,38 @@
 
 }
 
+#soporte .formularios{
+    display: flex;
+}
+
+.f-first{
+    width: 20vw;
+    margin: 50px;
+}
+.f-sec{
+    width: 60vw;
+    margin: 50px;
+
+}
+.f-sec button {
+    margin-top: 35px;
+
+}
+#soporte{
+    font-family: 'Roboto', sans-serif;
+}
+#soporte h2{
+    padding:30px;
+}
+
+#soporte h3{
+    padding: 30px;
+}
+
+#footer-f {
+    color: white;
+}
+
 
 
 
