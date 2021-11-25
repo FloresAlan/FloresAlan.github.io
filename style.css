@@ -158,6 +158,51 @@
     height: 200px;
 
 }
+.opin{
+    padding:7vh;
+}
+#opiniones p{
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+#opiniones img{
+    width: 8vw;
+    min-width: 80px;
+    height: auto;
+}
+
+
+
+#descarga{
+    background: #E5E5E5;
+
+}
+
+#descarga iframe{
+    height: 50vh;
+    width: 30vw;
+
+}
+
+.about-p{
+    min-width: 300px;
+    height: auto;
+    min-height: 300px;
+}
+
+#descarga .cell-img img{
+
+    min-width: 300px;
+
+    height: auto;
+}
+
+#descarga h4{
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+    font-family: 'Roboto', sans-serif;
+}
 
 #opiniones{
     height: 70vh;
@@ -643,5 +688,6 @@
     text-align: center;
     overflow: hidden;
 }
+
 
 
